@@ -9,7 +9,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  output: "export", // shu yerga qo‘shib yuboramiz
+ 
 };
 
 export default nextConfig;
